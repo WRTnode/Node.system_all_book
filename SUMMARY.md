@@ -11,7 +11,9 @@
   * [UART](ying-jian-io-zu-jian/uart.md)
 * [常用外设](chang-yong-wai-she.md)
   * [DHT11](chang-yong-wai-she/dht11.md)
-  * RGB LED
+  * [RGB LED](chang-yong-wai-she/rgb-led.md)
+* [连接管理](lian-jie-guan-li.md)
+  * WiFi接入
 
 
 
