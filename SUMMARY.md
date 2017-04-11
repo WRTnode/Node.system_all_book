@@ -6,9 +6,12 @@
 * [硬件IO组件](ying-jian-io-zu-jian.md)
   * [GPIO](ying-jian-io-zu-jian/gpio.md)
   * [PWM](ying-jian-io-zu-jian/pwm.md)
-  * I2C
-  * SPI
-  * UART
-
+  * [I2C](ying-jian-io-zu-jian/i2c.md)
+  * [SPI](ying-jian-io-zu-jian/spi.md)
+  * [UART](ying-jian-io-zu-jian/uart.md)
+* [常用外设](chang-yong-wai-she.md)
+  * DHT11
+  * RGB LED
+* 
 
 
