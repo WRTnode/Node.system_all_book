@@ -10,6 +10,7 @@
   * [SPI](ying-jian-io-zu-jian/spi.md)
   * [UART](ying-jian-io-zu-jian/uart.md)
 * [常用外设](chang-yong-wai-she.md)
+  * DHT11
 
 
 
