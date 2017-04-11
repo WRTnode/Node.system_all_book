@@ -3,12 +3,27 @@
 * [前言](README.md)
 * [开发规范、工具与范例](kai-fa-gui-fan-3001-gong-ju-yu-fan-li.md)
 * [系统组件](xi-tong-zu-jian.md)
+  * 时间
+  * filesystem
+  * 本机
 * [硬件IO组件](ying-jian-io-zu-jian.md)
   * [GPIO](ying-jian-io-zu-jian/gpio.md)
   * [PWM](ying-jian-io-zu-jian/pwm.md)
   * [I2C](ying-jian-io-zu-jian/i2c.md)
   * [SPI](ying-jian-io-zu-jian/spi.md)
   * [UART](ying-jian-io-zu-jian/uart.md)
-* [常用外设](chang-yong-wai-she.md)
-
+* [常用外设组件](chang-yong-wai-she.md)
+  * [DHT11](chang-yong-wai-she/dht11.md)
+  * [RGB LED](chang-yong-wai-she/rgb-led.md)
+* [连接管理组件](lian-jie-guan-li.md)
+  * [WiFi 客户端接入](lian-jie-guan-li/wifijie-ru.md)
+  * 蓝牙连接
+  * NB-iot
+  * lora
+  * zigbee
+* 网络协议组件
+  * mqtt
+  * http/https
+* 云服务组件
+  * MCS
 
