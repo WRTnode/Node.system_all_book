@@ -1,5 +1,7 @@
 # Node.system 全部文档
 
+![](/assets/nodesystem.png)
+
 Node.system是wrtnode开发的物联网JavaScript开发框架。
 
 wrtnode的观点是：物联网开发不应该是传统嵌入式开发的延续，而应该是互联网开发的延续。
