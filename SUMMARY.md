@@ -2,6 +2,7 @@
 
 * [前言](README.md)
 * [开发规范、工具与范例](kai-fa-gui-fan-3001-gong-ju-yu-fan-li.md)
+* [JS组件机制与组件库](jszu-jian-ji-zhi-yu-zu-jian-ku.md)
 * [系统组件](xi-tong-zu-jian.md)
   * [时间](xi-tong-zu-jian/shi-jian.md)
   * [filesystem](xi-tong-zu-jian/filesystem.md)
