@@ -38,13 +38,13 @@ var gpio = require('gpio');
 
 该pinobj对象的引脚号
 
-
+## 
 
 ## pinobj.read
 
 ### 说明
 
-从引脚上读电平信号，在此之前请注意用[pinobj.direction\('in'\)](https://github.com/kingxf1995/wrtjs-doc/blob/master/API-Reference.md#pinobjdirection)设置引脚为输入模式
+从引脚上读电平信号，在此之前请注意用[pinobj.direction\('in'\)](#pinobjdirection)设置引脚为输入模式
 
 ### 参数
 
@@ -54,7 +54,7 @@ var gpio = require('gpio');
 
 如果引脚为高电平返回true，如果为低电平返回false，如果读取失败返回Undefined
 
-
+## 
 
 ## pinobj.write
 
@@ -72,13 +72,13 @@ var gpio = require('gpio');
 
 成功返回true，失败返回false
 
-
+## 
 
 ## pinobj.pull
 
 ### 说明
 
-> 设置内部上拉/下拉
+设置内部上拉/下拉
 
 ### 参数
 
@@ -90,13 +90,13 @@ var gpio = require('gpio');
 
 成功返回true, 失败返回false
 
-
+## 
 
 ## pinobj.direction
 
 ### 说明
 
-> 设置I/O方向
+设置I/O方向
 
 ### 参数
 
