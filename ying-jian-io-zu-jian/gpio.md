@@ -108,3 +108,22 @@ var gpio = require('gpio');
 
 成功返回true, 失败返回false
 
+代码示例
+
+```js
+var gpio = require('gpio');
+
+var pin = gpio.open(0);
+pin.direction('out');
+
+var val = true;
+setInterval(function(){
+    pin.write(val);
+    val = !val;
+}, 1000);
+
+
+```
+
+
+
