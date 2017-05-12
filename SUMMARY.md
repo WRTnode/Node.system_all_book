@@ -9,6 +9,7 @@
   * [本机](xi-tong-zu-jian/ben-ji.md)
 * [硬件IO组件](ying-jian-io-zu-jian.md)
   * [GPIO](ying-jian-io-zu-jian/gpio.md)
+  * [PINMUX](ying-jian-io-zu-jian/pinmux.md)
   * [PWM](ying-jian-io-zu-jian/pwm.md)
   * [I2C](ying-jian-io-zu-jian/i2c.md)
   * [SPI](ying-jian-io-zu-jian/spi.md)
