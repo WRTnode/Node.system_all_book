@@ -24,7 +24,7 @@
   * [DHT11](chang-yong-wai-she/dht11.md)
   * [RGB LED](chang-yong-wai-she/rgb-led.md)
 * [连接管理组件](connective.md)
-  * [WiFi 客户端](connective/wifijie-ru.md)
+  * [WiFi 客户端](connective/wifi.md)
   * [蓝牙连接](connective/lan-ya-lian-jie.md)
   * [NB-iot](connective/nb-iot.md)
   * [lora](connective/lora.md)
