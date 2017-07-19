@@ -16,5 +16,6 @@ wifi.connect("ssid", "password");
 参数说明：
 
 参数1：欲连接的Wifi介入点的名字
+
 参数2：Wifi接入点的密码，如无密码留空即可。
 
