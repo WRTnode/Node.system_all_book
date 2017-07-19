@@ -86,5 +86,6 @@ m1.write(true);         // GPIO29拉高
 m2.write(false);        // GPIO30拉低
 ```
 
+以上程序的demo代码可以在 [这里](https://github.com/WRTnode/Node.system_all_book/raw/master/files/demo-mt7697.zip) 找到
 
 
