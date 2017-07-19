@@ -1,6 +1,10 @@
 # Summary
 
 * [前言](README.md)
+* [Node.system开发套件]
+  * [MaG 7](di-ban-1.md)
+  * [Node 7 Lite]
+  * [WRTnode2R]
 * [开发规范、工具与范例](kai-fa-gui-fan-3001-gong-ju-yu-fan-li.md)
 * [JS组件机制与组件库](jszu-jian-ji-zhi-yu-zu-jian-ku.md)
 * [系统组件](xi-tong-zu-jian.md)
@@ -28,5 +32,3 @@
   * [http/https](httphttps.md)
 * [云服务组件](yun-fu-wu-zu-jian.md)
   * [MCS](mcs.md)
-* [wrtnode^7 磁吸套件](di-ban-1.md)
-
