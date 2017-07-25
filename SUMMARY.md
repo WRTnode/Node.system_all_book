@@ -36,4 +36,5 @@
   * [MCS](mcs.md)
 * 组件开发
   * [入门基础](ru-men-ji-chu.md)
+  * [编写一个math组件](bian-xie-yi-ge-math-zu-jian.md)
 
