@@ -6,13 +6,13 @@
   * [\[Node 7 Lite\]](node-7-lite.md)
   * [\[WRTnode2R\]](wrtnode2r.md)
 * [开发规范、工具与范例](kai-fa-gui-fan-3001-gong-ju-yu-fan-li.md)
-* [JS组件机制与组件库](jszu-jian-ji-zhi-yu-zu-jian-ku.md)
-  * [组件封装规范](jsmodule-spec.md)
-  * [组件开发样例](jsmodule-devdemo.md)
 * [系统组件](xi-tong-zu-jian.md)
   * [时间](xi-tong-zu-jian/shi-jian.md)
   * [filesystem](xi-tong-zu-jian/filesystem.md)
   * [本机](xi-tong-zu-jian/ben-ji.md)
+* [JS组件机制与组件库](jszu-jian-ji-zhi-yu-zu-jian-ku.md)
+  * [组件封装规范](jsmodule-spec.md)
+  * [组件开发样例](jsmodule-devdemo.md)
 * [硬件IO组件](ying-jian-io-zu-jian.md)
   * [GPIO](ying-jian-io-zu-jian/gpio.md)
   * [PINMUX](ying-jian-io-zu-jian/pinmux.md)
@@ -34,4 +34,6 @@
   * [http/https](httphttps.md)
 * [云服务组件](yun-fu-wu-zu-jian.md)
   * [MCS](mcs.md)
+* 组件开发
+  * [入门基础](ru-men-ji-chu.md)
 
