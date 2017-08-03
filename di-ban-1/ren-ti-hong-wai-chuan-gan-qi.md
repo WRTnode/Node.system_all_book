@@ -10,7 +10,7 @@ var hb = require("humanbody");
 打开设备并设置回调函数
 
 ```js
-var h = hb.open(mag7, function(){
+var h = hb.open(mag7.D1, function(){
    print("Detect human"); 
 });
 ```
