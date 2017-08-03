@@ -22,7 +22,7 @@ var value = s.read();
 关闭设备
 
 ```js
-h.close();
+s.close();
 ```
 
 
