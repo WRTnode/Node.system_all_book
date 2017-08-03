@@ -1,6 +1,6 @@
-# 湿度传感器
+# 电位器
 
-使用湿度传感器库
+使用电位器库
 
 ```js
 var mag7 = require("mag7");
@@ -13,7 +13,7 @@ var pm = require("potentiometer");
 var p = pm.open(mag7.A1);
 ```
 
-读取湿度值
+读取电位器值
 
 ```js
 var value = p.read();
