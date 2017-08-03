@@ -10,7 +10,7 @@ var relay= require("relay");
 打开设备
 
 ```js
-var r = relay.open(mag7.A1);
+var r = relay.open(mag7.D1);
 ```
 
 设置继电器状态，状态值只能为true和false
