@@ -7,6 +7,7 @@
     * [人体红外传感器](di-ban-1/ren-ti-hong-wai-chuan-gan-qi.md)
     * [湿度传感器](di-ban-1/shi-du-chuan-gan-qi.md)
     * [电位器](di-ban-1/dian-wei-qi.md)
+    * [继电器](di-ban-1/ji-dian-qi.md)
   * [\[Node 7 Lite\]](node-7-lite.md)
   * [\[WRTnode2R\]](wrtnode2r.md)
 * [开发规范、工具与范例](kai-fa-gui-fan-3001-gong-ju-yu-fan-li.md)
