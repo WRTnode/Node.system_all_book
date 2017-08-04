@@ -9,6 +9,7 @@
     * [电位器](di-ban-1/dian-wei-qi.md)
     * [继电器](di-ban-1/ji-dian-qi.md)
     * [开关](di-ban-1/kai-guan.md)
+    * [舵机](di-ban-1/duo-ji.md)
   * [\[Node 7 Lite\]](node-7-lite.md)
   * [\[WRTnode2R\]](wrtnode2r.md)
 * [开发规范、工具与范例](kai-fa-gui-fan-3001-gong-ju-yu-fan-li.md)
